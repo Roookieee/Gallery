@@ -1,6 +1,6 @@
 @font-face {
   font-family: "icons-turn-arrow";
-  src: url("../fonts/icons/turn-arrow.eot") format("embedded-opentype"), 
+  src: url("../fonts/icons/turn-arrow.eot") format("embedded-opentype"),
        url("../fonts/icons/turn-arrow.woff") format("woff"),
        url("../fonts/icons/turn-arrow.ttf") format("truetype"),
        url("../fonts/icons/turn-arrow.svg") format("svg");
@@ -23,7 +23,7 @@ html, body {
   position: relative;
 
   width: 100%;
-  height: 680px; 
+  height: 90%;
 }
 /*stage -- end*/
 
@@ -72,7 +72,7 @@ html, body {
         color: #a7a0a2;         /*浅灰*/
         font-size: 16px;
       }
-    
+
       .img-back{
         position: absolute;
         top: 0;
